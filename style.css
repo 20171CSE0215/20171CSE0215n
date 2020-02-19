@@ -1,0 +1,17 @@
+
+p{
+color:red;
+}
+h2 > i{
+color:#990000;
+}
+a-hover{
+text-decoration:underline;
+}
+#myFirst {
+  text-align: center;
+}
+a:hover {
+  background-color: yellow;
+}
+
